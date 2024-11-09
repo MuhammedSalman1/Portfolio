@@ -1,0 +1,151 @@
+.mainskills{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    height: 150vh;
+    background-color: #212529;
+    padding-top: 2rem;
+    gap: 30px;
+
+}
+.skillstitle > h2 {
+    font-size: 52px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 20px;
+    color: rgb(242, 243, 244);
+
+}
+.skillstitle > p {
+    font-weight: 500;
+
+
+}
+.skillsdiv{
+    width: 100%;
+    height: 90%;
+    display: flex;
+    justify-content: space-evenly;
+
+    
+}
+.frontend {
+    background-color: rgba(17, 25, 40, 0.83);
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
+    border-radius: 16px;
+    padding: 18px 36px;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    max-width: 500px;
+
+}
+
+.frontendtitle{
+ 
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(177, 178, 179);
+ 
+}
+
+.frontenditems {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+.react{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(242, 243, 244, 0.5);
+    border: 1px solid rgba(242, 243, 244, 0.5);
+    border-radius: 12px;
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+.reactimg{
+    width: 24px;
+    height: 24px;
+}
+
+
+
+
+@media screen and (max-width: 760px) {
+
+
+
+
+    .mainskills {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+        height: 80rem;
+        background-color: #212529;
+    }
+.skillstitle  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;  
+
+}
+    .skillsdiv {
+        width: 100%;
+        height: 90%;
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .frontend {
+        
+        padding: 10px 26px;
+       
+        height: 450px;
+        max-width: 330px;
+    
+    }
+  
+    
+   
+  }
+  
+
+  @media only screen and (min-width: 760px) and (max-width: 1200px) {
+
+    .mainskills {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+        height: 200vh;
+        background-color: #212529;
+        padding-top: 2rem;
+        gap: 30px;
+    }
+    .skillsdiv {
+        width: 100%;
+        height: 90%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+ 
+  }
