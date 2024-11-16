@@ -154,7 +154,7 @@ export const projects = [
     date: "Feb 2024",
     description:
       "Built a responsive BMI Calculator web app using React.js, offering users a user-friendly interface to input their height and weight and obtain accurate BMI results instantly..",
-    image:wesbite,
+      image: "/wesbite.jpeg",
     tags: ["Html  ", "Css", "TailwindCss", "ReactJS "],
     category: "web app",
     github: "https://github.com/MuhammedSalman1/knowledgetechh-Academy-nextjs-AceternityUI",

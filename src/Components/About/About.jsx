@@ -63,7 +63,7 @@ const About = () => {
           </div>
 
           <div className="aboutimg">
-            <img src="/salman.jpg" alt="Salman" />
+            <img src="/salman.jpg" className="img" />
           </div>
         </div>
       </div>
