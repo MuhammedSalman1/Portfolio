@@ -1,11 +1,4 @@
 
-import american from '/american.png'
-
-import bmi from '/bmi.png'
-
-import mealgenerator from '/mealgenerator.png'
-import wesbite from '/wesbite.jpeg'
-
 
 export const Bio = {
   name: "Muhammad Salman",
@@ -91,7 +84,7 @@ export const projects = [
     date: "Nov 2024",
     description:
       "Knowledgetech Academy is a Next.js and Aceternity UI-powered platform for delivering high-quality IT courses in topics like DevOps, AI, web development, and data science. This project focuses on a clean, responsive design for an engaging user experience.",
-    image: wesbite,
+     image: "/wesbite.jpeg",
     tags: ["Next Js", "Aceternity UI", "Firebase"],
     category: "web app",
     github: "https://github.com/MuhammedSalman1/knowledgetechh-Academy-nextjs-AceternityUI",
@@ -103,7 +96,7 @@ export const projects = [
     date: "Oct 2024",
     description:
     "A React-based theme switcher using Tailwind CSS, allowing users to toggle between light and dark modes with state management and local storage for persistence..",
-    image: wesbite,
+     image: "/wesbite.jpeg",
     tags: ["React Js", "Redux", "Firebase"],
     category: "web app",
     github: "https://github.com/MuhammedSalman1/knowledgetechh-Academy-nextjs-AceternityUI",
@@ -115,7 +108,7 @@ export const projects = [
     date: "April 2024",
     description:
       "MealMaster: a convenient web app for generating meal ideas based on preferences and ingredients. Simplifying meal planning with a user-friendly interface for home cooks.",
-    image: wesbite,
+     image: "/wesbite.jpeg",
     tags: ["React Js", "Material UI", "Firebase"],
     category: "web app",
     github: "https://github.com/MuhammedSalman1/knowledgetechh-Academy-nextjs-AceternityUI",
@@ -127,7 +120,7 @@ export const projects = [
     date: "Feb 2024",
     description:
     "This is the cricket Academy website ..      ",
-    image: wesbite,
+     image: "/wesbite.jpeg",
     tags: ["Html  ", "Css", "TailwindCss", "NextJs", "EmailJS "],
     category: "web app",
     webapp: "https://www.americanwebexpress.com/",
@@ -138,7 +131,7 @@ export const projects = [
     date: "Feb 2024",
     description:
       "OrderEats: an online platform transforming food ordering with easy browsing, seamless ordering, and quick delivery. Enhancing the dining experience with user-friendly features for modern food lovers.",
-    image: wesbite,
+     image: "/wesbite.jpeg",
     tags: ["React Js", "Tailwind Css"],
     category: "web app",
     github: "https://github.com/MuhammedSalman1/knowledgetechh-Academy-nextjs-AceternityUI",
@@ -150,7 +143,7 @@ export const projects = [
     date: "Dec 2023",
     description:
       "🎵 Spotify Clone: Built with HTML, CSS, and JavaScript. Features play/pause, track controls, and a dynamic progress bar. Explore the code for a hands-on learning experience. 🚀 #WebDev #JavaScript",
-    image: wesbite,
+     image: "/wesbite.jpeg",
     tags: ["Html  ", "Css", "TailwindCss", "ReactJS ", "Firebase"],
     category: "web app",
     webapp: "https://innovativetech.vercel.app/",
@@ -173,7 +166,7 @@ export const projects = [
     date: " Sep - 2023",
     description:
       "Crafted Salt'n Pepper restaurant's website, showcasing its culinary offerings with an immersive, responsive design for enhanced user engagement.",
-    image: wesbite,
+     image: "/wesbite.jpeg",
     tags: ["Html", "Css", "Bootstrap", "Javascript"],
     category: "web app",
     github: "https://github.com/MuhammedSalman1/knowledgetechh-Academy-nextjs-AceternityUI",
@@ -186,7 +179,7 @@ export const projects = [
     date: " Sep - 2023",
     description:
       "Designed and developed a sleek stopwatch application with precision timing features, ensuring optimal user experience across devices. Built using modern web technologies for seamless performance.",
-    image: wesbite,
+     image: "/wesbite.jpeg",
     tags: ["Html", "Css", "Bootstrap", "Javascript"],
     category: "web app",
     github: "https://github.com/MuhammedSalman1/knowledgetechh-Academy-nextjs-AceternityUI",

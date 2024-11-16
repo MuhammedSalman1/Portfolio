@@ -1,6 +1,5 @@
 import React from "react";
 import "./About.css";
-import img from "/salman.jpg";
 import AnimatedNumbers from "../Animatednumbers/AnimatedNumbers";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -64,7 +63,7 @@ const About = () => {
           </div>
 
           <div className="aboutimg">
-            <img src={img} alt="" className="img" />
+            <img src="/salman.jpg" alt="Salman" />
           </div>
         </div>
       </div>
